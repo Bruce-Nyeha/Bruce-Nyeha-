@@ -9,8 +9,9 @@ Aspiring Full Stack Software Engineer | Backend Focused | Learning FastAPI, Pyth
 - Building my portfolio and pushing code to GitHub every day
 
 ### What I'm Learning
-- Python, FastAPI, SQLite, PostgreeSQL
+- Python, FastAPI, SQLite, PostgreSQL
 - RESTful API design and implementation
+- HTML, CSS
 - Git & GitHub for version control
 - Planning to learn Java, C, C++, JavaScript & React later
 - Planning to learn fullstack, Web3, cybersecurity/ethical hacking,AI/ML, IoT
