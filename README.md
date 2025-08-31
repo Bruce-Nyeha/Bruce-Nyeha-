@@ -13,10 +13,11 @@ Aspiring Full Stack Developer | Backend Focused | Learning FastAPI, Python, REST
 - RESTful API design and implementation
 - Git & GitHub for version control
 - Planning to learn Java, C, C++, JavaScript & React later
-
+- Planning to learn fullstack, Web3, cybersecurity/ethical hacking,AI/ML, IoT
 ### Current Projects
 - **Todo App** – FastAPI project with CRUD, clean architecture, SQLite database
-- More backend projects coming weekly
+- **Library management** - FastAPI project with CRUD, RBAC, clean architecture, PostgreSQL database. 
+- **Philford Attendance** - FastAPI project with CRUD, RBAC, authentication, authorization, File Uploads, clean and scalable architecture,PostgreSQL. 
 
 ### Goals
 - Land my first junior backend role
