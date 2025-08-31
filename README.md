@@ -19,6 +19,14 @@ Aspiring Full Stack Developer | Backend Focused | Learning FastAPI, Python, REST
 - **Library management** - FastAPI project with CRUD, RBAC, clean architecture, PostgreSQL database. 
 - **Philford Attendance** - FastAPI project with CRUD, RBAC, authentication, authorization, File Uploads, clean and scalable architecture,PostgreSQL. 
 
+### Skills&Certifications
+- Digital Marketer. 
+- Leadership skills. 
+- IT&Computer Hardware(Apprenticeship). 
+- OS installation. 
+- Renewable Engineer with 2 CBT(Competency Base Training) certificates given by GIZ. 
+- MS Suite & Basic MS DOS skills. 
+
 ### Goals
 - Land my first junior backend role
 - Start learning for web 3 developement and blockchain and dive into it
