@@ -4,7 +4,7 @@ Aspiring Full Stack Software Engineer | Backend Focused | Learning FastAPI, Pyth
 
 ### About Me
 - Currently studying Software Development at BYU Online
-- Started my backend journey on paper straight seven months just be stronger the moment I get hold of my laptop and yes I am now. 
+- Started my backend journey on paper straight seven months just to be stronger the moment I get hold of my laptop and yes I am now. 
 - Passionate about backend/frontend engineering, cybersecurity, Web3, AI/ML and IoT
 - Building my portfolio and pushing code to GitHub every day
 
